@@ -1,0 +1,5 @@
+.vscode
+.dist
+a.out
+*.txt
+main
