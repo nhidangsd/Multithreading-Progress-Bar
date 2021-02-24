@@ -1,5 +1,6 @@
 .vscode
 .dist
 a.out
+*.o
 *.txt
-main
+wordcount
